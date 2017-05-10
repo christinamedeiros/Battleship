@@ -150,6 +150,6 @@ i=0
 
 
 else
-  puts "Walk the Plank!"
+  puts "Arrr Maty!!! Walk the Plank and head to Davy Jones' Locker!"
 
 end
